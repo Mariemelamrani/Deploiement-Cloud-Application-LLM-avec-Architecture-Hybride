@@ -18,7 +18,7 @@ L'application suit une architecture hybride innovante :
 - Backend IA Local : Modèles Ollama exécutés localement
 - Connectivité : Tunnel sécurisé Ngrok pour la connectivité cloud-local
 - Stack technique : Streamlit, LangChain, ChromaDB, Docker
-![Architecture du Projet](./Files/Architecture2.png)
+![Architecture du Projet](./Files/Architecture2.PNG)
 
 ***PROCESSUS DE DÉPLOIEMENT***
 
