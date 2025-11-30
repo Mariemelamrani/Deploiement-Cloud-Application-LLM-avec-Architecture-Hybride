@@ -11,6 +11,8 @@ Ce projet démontre le déploiement d'une application IA conversationnelle intel
 - Infrastructure : AWS EC2, Docker, Ngrok
 - Sécurité : IAM, Security Groups, SSH Keys
 ![Architecture du Projet](./Files/Architecture1.png)
+
+
 ***ARCHITECTURE HYBRIDE***
 L'application suit une architecture hybride innovante :
 - Frontend Cloud : Application Streamlit containerisée sur AWS EC2
@@ -18,6 +20,7 @@ L'application suit une architecture hybride innovante :
 - Connectivité : Tunnel sécurisé Ngrok pour la connectivité cloud-local
 - Stack technique : Streamlit, LangChain, ChromaDB, Docker
 ![Architecture du Projet](./Files/Architecture2.png)
+
 
 ***PROCESSUS DE DÉPLOIEMENT***
 
